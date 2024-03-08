@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html lang="{{ site.lang | default: "en-US" }}">
+  <head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+{% seo %}
+    <link rel="stylesheet" href="{{ "/assets/css/style.css?v=" | append: site.github.build_revision | relative_url }}">
+    <!--[if lt IE 9]>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/html5shiv/3.7.3/html5shiv.min.js"></script>
+    <![endif]-->
+    {% include head-custom.html %}
+  </head>
+  
+  <body>
+    <div class="wrapper">
+
+      <section>
+
+      {{ content }}
+        <h3><p>Importante:</p></h3>
+         <ul>
+           <li>Si te falta algo de material personal para la actividad, cuéntamelo y buscamos una solución! 👍🏼</li>
+           <li>Si te apetece un reto más exigente técnica o físicamente, cuéntamelo también! 💬</li>
+           <li>Los tiempos y distancias son orientativos para la actividad completa: desde que dejamos el coche hasta que volvemos al coche 🚗↔️🚗</li>
+         </ul> 
+        <h3><a href="https://wa.me/+34686569323?text=Hola,%20me%20interesa%20hacer%20una%20actividad%20de%20montaña%20contigo.%0A%0A¿Estás%20disponible%20el%20día..."><img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/brands/whatsapp.svg" width="20" height="20"> Escríbeme!</a></h3>
+      </section>
+      <footer>
+        
+        <a href="../">🔙 back</a>
+        <!--{% if site.github.is_project_page %}-->
+        <!--<p>This project is maintained by <a href="{{ site.github.owner_url }}">{{ site.github.owner_name }}</a></p>-->
+        <!--{% endif %}-->
+        <!--<p><small>Hosted on GitHub Pages &mdash; Theme by <a href="https://github.com/orderedlist">orderedlist</a></small></p>-->
+      </footer>
+
+    </div>
+    <script src="{{ "/assets/js/scale.fix.js" | relative_url }}"></script>
+  </body>
+</html>

@@ -1,0 +1,8 @@
+title: Indra, tu guía!
+logo: /assets/img/feo-circle-aegm.jpg
+description:
+show_downloads: false
+google_analytics:
+theme: jekyll-theme-minimal
+plugins: 
+  - jemoji
