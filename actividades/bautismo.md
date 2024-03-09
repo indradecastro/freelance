@@ -13,8 +13,6 @@ El objetivo de esta actividad es que los clientes hagan una primera toma de cont
 
 He llevado a roca a una gran variedad de clientes: desde niños hasta adultos, grupos de hasta 5 clientes, gente con cierta experiencia en rocódromo, sin experiencia alguna e incluso ¡un invidente con su perro-guía!
 
-
-
 * * *
 
 ### Una actividad típica:<br>

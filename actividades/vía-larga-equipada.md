@@ -7,22 +7,20 @@ layout: actividad
 
 ## Vía larga equipada
 
-Escalas deportiva habitualmente y sueñas con continuar escalando hacia arriba 30m, 40, 50... ¿100m? ¿150m? ¡Entonces compartimos pasión!
+El cliente que se contrata una vía larga suele escalar deportiva habitualmente y busca una experiencia nueva, ¡con sus correspondientes fotos!
 
-Escalar una vía larga es todo una experiencia. Sentir cómo vas alejándote del suelo, reunirte con tu guía tras cada largo, seguir escalando y llegar a lo más alto para luego rapelar hasta el suelo por nuestros propios medios.
+Sin duda alguna, la vía larga es mi terreno preferido tanto a nivel personal como profesional. Al finalizar 2023 acumulaba 17.980 m de vías largas equipadas, repartidas en 98 vías, muchas de las cuales están en escuelas de la isla: Sa Gubia, Alaró, Pa de Figa...
 
-¡Imagínate las fotos que salen desde allí arriba!
+Si un cliente pide escalar en Sa Gubia, ya sabes qué guía vive en Bunyola 😉
 
 * * *
 
-### Detalles de la actividad:<br>
+### Una actividad típica:<br>
 👥 Tamaño del grupo: 1 persona (ampliable a 2 personas)
 
 ⏳ Duración aproximada: 5h, una mañana o una tarde
 
-*	📅 Acordaremos la fecha que mejor te viene
-*	🎒 Te informaré del material necesario
-*	🅿️ Enviaré la ubicación del parking donde nos encontraremos
+&euro Precio desde ... (sin IVA)
 
 ### Ejemplos:<br>
 Quan es fa Fosc, Supernova, Ley del Deseo, Sleepy Hollow
