@@ -16,10 +16,8 @@ Si un cliente pide escalar en Sa Gubia, ya sabes qué guía vive en Bunyola 😉
 * * *
 
 ### Una actividad típica:<br>
-*	🔝 Ejemplos: Quan es fa Fosc, Supernova, Ley del Deseo, Sleepy Hollow
-*	👥 Nº de clientes: 1 (ampliable a 2)
-*	⏳ Duración aproximada: 5h
-*	💲 Desde ... € (sin IVA)
+📍 Ejemplos: Quan es fa Fosc, Supernova, Ley del Deseo, Sleepy Hollow
 
-### Ejemplos:<br>
+👥 Nº de clientes: 1 (ampliable a 2)
 
+⏳ Duración aproximada: 5h
