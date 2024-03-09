@@ -3,7 +3,7 @@ layout: default
 ---
 
 ### ¿Necesitas cubrir una actividad?
-## <img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/brands/whatsapp.svg" width="30" height="30"> [¡Escríbeme!](https://wa.me/+34686569323?text=Hola%20Indra,%20necesito%20un%20guía%20para%20una%20actividad.%0A%0AActividad:%20%0AFecha:%20%20%0AHorario%20aprox:%20%0ALocalización:%20%0A%0ANº%20de%20clientes:%20%0AIdioma:%20%0AMaterial%20de%20empresa:%20(sí/no)%0A%0ADetalles%20extra:%20%0APor%20ejemplo,%20_"debes%20recoger%20a%20los%20clientes%20en%20el%20Hotel%20Gran%20Paradise%20en%20Alcudia"_)
+## <img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/brands/whatsapp.svg" width="30" height="30"> [¡Escríbeme!](https://wa.me/+34686569323?text=Hola%20Indra,%20necesito%20un%20guía%20para%20una%20actividad.%0A%0AActividad:%20%0AFecha:%20%20%0AHorario%20aprox:%20%0ALocalización:%20%0A%0ANº%20de%20clientes:%20%0AIdioma:%20%0AMaterial%20de%20empresa:%20(sí/no)%0A%0ADetalles%20extra:%0APor%20ejemplo,%20¿Tengo%20que%20recoger%20clientes%20en%20el%20hotel?)
 
 📞 [+34 686569323](tel:+34 686569323)<br>
 <img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/regular/envelope.svg" width="20" height="20"> [indradatta@wanadoo.fr](mailto:indradatta@wanadoo.fr)<br>
@@ -24,8 +24,6 @@ layout: default
 ⚠️ No dispongo de material para clientes
 
 ## Presentación
-Con más de 20 años de experiencia en montaña y 15 en escalada, me encantan las actividades largas (tanto horizontales como verticales). Eso me ha llevado a ser muy meticuloso en la planificación de horarios, material, seguridad y asumir el compromiso con la actividad y los compañeros.
-
 Más de 20 años de experiencia en montaña y 15 en escalada, me han llevado a ser muy meticuloso en la planificación de horarios, material, seguridad y asumir el compromiso con la actividad y los compañeros.
 
 Sean clientes locales o turistas, deportistas de élite o paseantes ocasionales, videntes, invidentes e incluso ¡personas con movilidad reducida! Me encanta tener todo listo para que disfruten la actividad y contagiar mi pasión por las plantas, los animales y las rocas.
@@ -61,4 +59,4 @@ Me adapto a las necesidades de los clientes, ¿diseñamos junt@s su curso ideal?
 
 * * *
 
-## <img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/brands/whatsapp.svg" width="30" height="30"> [¡Escríbeme!](https://wa.me/+34686569323?text=Hola%20Indra,%20necesito%20un%20guía%20para%20una%20actividad.%0A%0AActividad:%20%0AFecha:%20%20%0AHorario%20aprox:%20%0ALocalización:%20%0A%0ANº%20de%20clientes:%20%0AIdioma:%20%0AMaterial%20de%20empresa:%20(sí/no)%0A%0ADetalles%20extra:%20%0APor%20ejemplo,%20_"debes%20recoger%20a%20los%20clientes%20en%20el%20Hotel%20Gran%20Paradise%20en%20Alcudia"_)
+## <img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/brands/whatsapp.svg" width="30" height="30"> [¡Escríbeme!](https://wa.me/+34686569323?text=Hola%20Indra,%20necesito%20un%20guía%20para%20una%20actividad.%0A%0AActividad:%20%0AFecha:%20%20%0AHorario%20aprox:%20%0ALocalización:%20%0A%0ANº%20de%20clientes:%20%0AIdioma:%20%0AMaterial%20de%20empresa:%20(sí/no)%0A%0ADetalles%20extra:%0APor%20ejemplo,%20¿Tengo%20que%20recoger%20clientes%20en%20el%20hotel?)
