@@ -9,7 +9,11 @@ layout: actividad
 
 Me encanta acompañar en "la primera vez", ayudar a guardar los mejores recuerdos, tanto en la memoria como con fotos.
 
-Antes de titularme ya llevé a decenas de colegas y familiares a descubrir la escalada. Ya como guía he llevado a roca a una gran variedad de clientes sin experiencia previa: desde niños hasta adultos, grupos de hasta 5 clientes, gente con cierta experiencia en rocódromo, sin experiencia alguna e incluso un invidente con su perro guía!
+El objetivo de esta actividad es que los clientes hagan una primera toma de contacto con la roca, que disfruten de subir unos metros, ver las vistas... No necesitan aprender todos los detalles de seguridad, aunque suelen disfrutar de aprender a hacerse el ocho.
+
+He llevado a roca a una gran variedad de clientes: desde niños hasta adultos, grupos de hasta 5 clientes, gente con cierta experiencia en rocódromo, sin experiencia alguna e incluso un invidente con su perro-guía!
+
+
 
 * * *
 
