@@ -13,7 +13,7 @@ layout: default
 📜 Guía de Escalada<br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(TD2, Escuela de Benasque)<br>
 🪪 Guía AEGM<br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(Asoc. Española de Guías de Montaña)<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(Asoc. de Guías de Montaña)<br>
 🦋 Biólogo apasionado<br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(Doctor, 10 años en investigación)<br>
 <br>
