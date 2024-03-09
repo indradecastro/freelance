@@ -7,20 +7,15 @@ layout: actividad
 
 ## Senderismo técnico
 
-Una actividad para senderistas habituales. Gente que disfruta de caminar por encinares, entre carritx y los penyales de la isla. Pero quizá no te sientes cómod@ con los mapas, los senderos estrechos, cuando no encuentras la siguiente fita o marca de la ruta. ¡Me encantará acompañaros en vuestra próxima excursión!
+Una actividad para senderistas habituales. Desde picos aislados hasta proyectos personales de mayor duración como subir todos los miles de Mallorca.
 
-¿¡Quieres subir caminando a todos los miles de Mallorca!?
+Haber hecho actividades estivales e invernales en todos los grandes macizos de la península (+ varias en Alpes y resto del mundo) me dan la confianza necesaria para acompañar a los clientes en sus cumbres soñadas, sin olvidar el famoso Torrent de Pareis que ya he guiado varias veces.
 
 * * *
 
-### Detalles de la actividad:<br>
-👥 Tamaño del grupo: 4 personas (ampliable hasta 10 personas)
+### Una actividad típica:<br>
+📍 Ejemplos: Torrent de Pareis, picos técnicos (Galatzó, Massanella, Tomir…)
+
+👥 Nº de clientes:  4 (ampliable hasta 10 con un guía de apoyo)
 
 ⏳ Duración aproximada: 5-7h, bastante variable (ampliable)
-
-*	📅 Acordaremos la fecha que mejor os viene
-*	🎒 Os informaré del material necesario
-*	🅿️ Enviaré la ubicación del parking donde nos encontraremos
-
-### Ejemplos:<br>
-Torrent de Pareis, picos técnicos (Galatzó, Massanella, Tomir…)

@@ -7,20 +7,15 @@ layout: actividad
 
 ## Trail running
 
-Salir a correr por montaña no es una locura, se pueden adaptar los recorridos, distancias y desniveles. Quizá lleves años caminando por Tramuntana y viendo corredor@s disfrutar trotando por los senderos y te ha llegado el momento...
+Salir a correr por montaña no es una locura, se pueden adaptar los recorridos, distancias y desniveles.
 
-...de ¡ponerte las zapatillas! 🏃🏻
+Suelo salir a correr como parte de mis entrenamientos para competir en la liga "Rallies 12h de Escalada" o simplemente para estar preparado físicamente para actividades invernales de larga duración. Por lo que disfrutaré diseñando una ruta que se ajuste a lo que pida el cliente.
 
 * * *
 
-### Detalles de la actividad:<br>
-👥 Tamaño del grupo: 1 persona (ampliable a 2 personas)
+### Una actividad típica:<br>
+📍 Ejemplos: Comuna de Bunyola, de Esporles, Cases de Galatzó, zona de Cúber...
+
+👥 Nº de clientes:  1 (ampliable a 2)
 
 ⏳ Duración aproximada: 1-2h (ampliable)
-
-*	📅 Acordaremos la fecha que mejor te viene
-*	🎒 Te informaré del material necesario
-*	🅿️ Enviaré la ubicación del parking donde nos encontraremos
-
-### Ejemplos:<br>
-Comuna de Bunyola, de Esporles, Cases de Galatzó, zona de Cúber...

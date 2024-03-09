@@ -7,22 +7,17 @@ layout: actividad
 
 ## Senderismo sencillo
 
-*   ¿Acabas de llegar a la isla y quieres conocer lugares con encanto?
-*   ¿Tienes a alguien a quien sorprender?
-*   ¿Llevas años en la isla y se te han acabado las excursiones nuevas?
+Es la actividad más sencilla que se puede hacer en montaña, pero ¡no por ello menos atractiva!
 
-Habla con tus amig@s, ¡nos vamos de excursión!
+Me encanta salir a caminar con gente que está deseando conocer lugares nuevos, respirar oxígeno, aprender sobre el paisaje, los usos tradicionales y sobre las plantas que nos encontremos a nuestro paso. Es en estas actividades donde un guía-biólogo es un gran plus para la actividad.
+
+He caminado por todo tipo de terrenos y distancias, en solitario y guiando grupos de hasta 25 personas. De hecho algunos de estos grupos grandes han sido grupos de 10-15 invidentes con sus acompañantes. También he llevado en silla Joelette a personas con movilidad reducida sin escatimar en la parte interpretativa del entorno.
 
 * * *
 
-### Detalles de la actividad:<br>
-👥 Tamaño del grupo: 4 personas (ampliable hasta 20 personas)
+### Una actividad típica:<br>
+📍 Ejemplos: Comuna de Bunyola, Camí des Correu, entorno de Lluc, zona Deia-Sóller, Escoltes, Arxiduc, Biniaraix, Talaia de Alcudia, picos sencillos
+
+👥 Nº de clientes: 4 (ampliable hasta 20 con un guía de apoyo)
 
 ⏳ Duración aproximada: 4-5h, una mañana o una tarde (ampliable)
-
-*	📅 Acordaremos la fecha que mejor os viene
-*	🎒 Os informaré del material necesario
-*	🅿️ Enviaré la ubicación del parking donde nos encontraremos
-
-### Ejemplos:<br>
-Comuna de Bunyola, Camí des Correu, entorno de Lluc, zona Deia-Sóller, Escoltes, Arxiduc, Biniaraix, Talaia de Alcudia, picos sencillos
