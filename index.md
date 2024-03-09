@@ -22,6 +22,7 @@ layout: default
 💬 Conversaciones en <br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;🇫🇷 francés, 🇬🇷 griego, euskera<br>
 <br>
+🏡 Base de operaciones: Bunyola!<br>
 🚗 Sí dispongo de vehículo propio<br>
 ⚠️ No dispongo de material para clientes
 

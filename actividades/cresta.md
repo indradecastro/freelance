@@ -6,24 +6,17 @@ layout: actividad
 *Vistas espectaculares en las crestas*
 
 ## Cresta
+Aunque Mallorca sea famosa por la escalada, ofrece crestas bastante atractivas.
 
-¡La aventura con mayúsculas!
-Te ofrezco desde crestas sencillas con algunas trepadas hasta itinerarios más verticales y ¡mucha sensación de vacío!
+Ofrezco desde crestas sencillas con algunas trepadas hasta itinerarios más verticales y ¡mucha sensación de vacío!
 
-Las crestas son la actividad más exclusiva que se puede hacer en montaña: 1 cliente y 1 guía unid@s por la cuerda.
-
-Sin duda, ¡una actividad única!
+Desde que vivo en Mallorca he tenido poca oportunidad de guiar crestas, pero, a nivel personal, he recorrido más de 40 crestas en Alpes, Pirineos y otras montañas de la península.
 
 * * *
 
-### Detalles de la actividad:<br>
-👥 Tamaño del grupo: ¡Exclusivamente para una persona!
+### Una actividad típica:<br>
+📍 Ejemplos: La Crestina en Sa Gubia, Aresta Llarga de Son Nassi, Aresta de n'Ali, Son Torrella
+
+👥 Nº de clientes: ¡Exclusivamente para un cliente!
 
 ⏳ Duración aproximada: 5-7h, bastante variable
-
-*	📅 Acordaremos la fecha que mejor te viene
-*	🎒 Te informaré del material necesario
-*	🅿️ Enviaré la ubicación del parking donde nos encontraremos
-
-### Ejemplos:<br>
-La Crestina, Aresta Llarga, Aresta de n'Ali, Son Torrella

@@ -11,7 +11,7 @@ El cliente que se contrata una vía larga suele escalar deportiva habitualmente 
 
 Sin duda alguna, la vía larga es mi terreno preferido tanto a nivel personal como profesional. Al finalizar 2023 acumulaba 17.980 m de vías largas equipadas, repartidas en 98 vías, muchas de las cuales están en escuelas de la isla: Sa Gubia, Alaró, Pa de Figa...
 
-Si un cliente pide escalar en Sa Gubia, ya sabes qué guía vive en Bunyola 😉
+Si un cliente pide escalar en Sa Gubia, estoy aquí mismo, en Bunyola 😉
 
 * * *
 

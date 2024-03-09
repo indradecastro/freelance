@@ -14,9 +14,8 @@ Llevo ya 4 años en Mallorca y conozco casi todos los sectores de la isla, tanto
 * * *
 
 ### Una actividad típica:<br>
-👥 Tamaño del grupo: 1 persona (ampliable a 2 personas)
+📍 Ejemplos: Alarò, Caimari, Sa Gubia, es Capdellà, Port de Sòller, ¡innumerables escuelas!
+
+👥 Nº de clientes: 1 (ampliable a 2)
 
 ⏳ Duración aproximada: 3-4h, una mañana o una tarde
-
-### Ejemplos:<br>
-Alarò, Caimari, Sa Gubia, es Capdellà, Port de Sòller, ¡innumerables escuelas!

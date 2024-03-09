@@ -16,9 +16,8 @@ He llevado a roca a una gran variedad de clientes: desde niños hasta adultos, g
 * * *
 
 ### Una actividad típica:<br>
-👥 Tamaño del grupo: 2-4 clientes
+📍 Ejemplos: s'Estret, Can Fil, Caimari, Puig de San Martí, Cas Català
+
+👥 Nº de clientes: 2-4 clientes
 
 ⏳ Duración aproximada: 3-4h, una mañana o una tarde
-
-### Ejemplos:<br>
-s'Estret, Can Fil, Caimari, Puig de San Martí, Cas Català
