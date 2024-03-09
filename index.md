@@ -11,16 +11,16 @@ layout: default
 
 ## Breve CV
 📜 Guía de Escalada<br>
-&nbsp; &nbsp;(TD2, Escuela de Benasque)<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(TD2, Escuela de Benasque)<br>
 🪪 Guía AEGM<br>
-&nbsp; &nbsp;(Asoc. Española de Guías de Montaña)<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(Asoc. Española de Guías de Montaña)<br>
 🦋 Biólogo apasionado<br>
-&nbsp; &nbsp;(Doctor, 10 años en investigación)<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(Doctor, 10 años en investigación)<br>
 <br>
 💬 Guío actividades en <br>
-&nbsp; &nbsp;🇪🇸 castellano, 🇬🇧 inglés, mallorquí<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;🇪🇸 castellano, 🇬🇧 inglés, mallorquí<br>
 💬 Conversaciones en <br>
-&nbsp; &nbsp;🇫🇷 francés, 🇬🇷 griego, euskera<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;🇫🇷 francés, 🇬🇷 griego, euskera<br>
 <br>
 🚗 Sí dispongo de vehículo propio<br>
 ⚠️ No dispongo de material para clientes
