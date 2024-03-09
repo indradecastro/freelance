@@ -3,25 +3,28 @@ layout: default
 ---
 
 ### ¿Necesitas cubrir una actividad?
-## <img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/brands/whatsapp.svg" width="30" height="30"> [¡Escríbeme!](https://wa.me/+34686569323?text=Hola%20Indra,%20necesito%20un%20guía%20para%20una%20actividad.%0A%0AActividad:%0AFecha:%20%0AHorario%20aprox:%0ALocalización:%0A%0ANº%20de%20clientes:%0AIdioma:%0AMaterial%20de%20empresa:%0A%0ADetalles%20extra:%0APor%20ejemplo,%20_"debes%20recoger%20a%20los%20clientes%20en%20el%20Hotel%20Gran%20Paradise%20en%20Alcudia"_)
+## <img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/brands/whatsapp.svg" width="30" height="30"> [¡Escríbeme!](https://wa.me/+34686569323?text=Hola%20Indra,%20necesito%20un%20guía%20para%20una%20actividad.%0A%0AActividad:%20%0AFecha:%20%20%0AHorario%20aprox:%20%0ALocalización:%20%0A%0ANº%20de%20clientes:%20%0AIdioma:%20%0AMaterial%20de%20empresa:%20(sí/no)%0A%0ADetalles%20extra:%20%0APor%20ejemplo,%20_"debes%20recoger%20a%20los%20clientes%20en%20el%20Hotel%20Gran%20Paradise%20en%20Alcudia"_)
 
 📞 [+34 686569323](tel:+34 686569323)<br>
 <img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/regular/envelope.svg" width="20" height="20"> [indradatta@wanadoo.fr](mailto:indradatta@wanadoo.fr)<br>
 <img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/brands/instagram.svg" width="20" height="20"> [@indradecastroarrazola](https://www.instagram.com/indradecastroarrazola/)<br>
 
 ## Breve CV
-📜 Guía de Escalada (TD2, Escuela de Benasque)<br>
-🪪 Guía AEGM (Asoc. Española de Guías de Montaña)<br>
-🦋 Biólogo apasionado (Doctor, 10 años en investigación)<br>
+📜 Guía de Escalada<br>
+   (TD2, Escuela de Benasque)<br>
+🪪 Guía AEGM<br>
+   (Asoc. Española de Guías de Montaña)<br>
+🦋 Biólogo apasionado<br>
+   (Doctor, 10 años en investigación)<br>
 <br>
 💬 Guío actividades en 🇪🇸 castellano, 🇬🇧 inglés, mallorquí<br>
 💬 Conversaciones en 🇫🇷 francés, 🇬🇷 griego, euskera<br>
 <br>
-🚗 Dispongo de vehículo propio
+🚗 Dispongo de vehículo propio<br>
 ⚠️ No dispongo de material para clientes
 
 ## Presentación
-Con más de 20 años de experiencia en montaña y 15 en escalada, me siento atraído por actividades largas (tanto horizontales como verticales). Eso me ha llevado a ser muy meticuloso en la planificación de horarios, material, seguridad y asumir el compromiso con la actividad y los compañeros.
+Con más de 20 años de experiencia en montaña y 15 en escalada, me encantan las actividades largas (tanto horizontales como verticales). Eso me ha llevado a ser muy meticuloso en la planificación de horarios, material, seguridad y asumir el compromiso con la actividad y los compañeros.
 
 Más de 20 años de experiencia en montaña y 15 en escalada, me han llevado a ser muy meticuloso en la planificación de horarios, material, seguridad y asumir el compromiso con la actividad y los compañeros.
 
@@ -58,4 +61,4 @@ Me adapto a las necesidades de los clientes, ¿diseñamos junt@s su curso ideal?
 
 * * *
 
-## <img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/brands/whatsapp.svg" width="30" height="30"> [¡Escríbeme!](https://wa.me/+34686569323?text=Hola%20Indra,%20necesito%20un%20guía%20para%20una%20actividad.%0A%0AActividad:%0AFecha:%20%0AHorario%20aprox:%0ALocalización:%0A%0ANº%20de%20clientes:%0AIdioma:%0AMaterial%20de%20empresa:%0A%0ADetalles%20extra:%0APor%20ejemplo,%20_"debes%20recoger%20a%20los%20clientes%20en%20el%20Hotel%20Gran%20Paradise%20en%20Alcudia"_)
+## <img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/brands/whatsapp.svg" width="30" height="30"> [¡Escríbeme!](https://wa.me/+34686569323?text=Hola%20Indra,%20necesito%20un%20guía%20para%20una%20actividad.%0A%0AActividad:%20%0AFecha:%20%20%0AHorario%20aprox:%20%0ALocalización:%20%0A%0ANº%20de%20clientes:%20%0AIdioma:%20%0AMaterial%20de%20empresa:%20(sí/no)%0A%0ADetalles%20extra:%20%0APor%20ejemplo,%20_"debes%20recoger%20a%20los%20clientes%20en%20el%20Hotel%20Gran%20Paradise%20en%20Alcudia"_)
