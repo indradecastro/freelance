@@ -20,7 +20,7 @@ Si un cliente pide escalar en Sa Gubia, ya sabes qué guía vive en Bunyola 😉
 
 ⏳ Duración aproximada: 5h, una mañana o una tarde
 
-&euro Precio desde ... (sin IVA)
+💲 Desde ... € (sin IVA)
 
 ### Ejemplos:<br>
 Quan es fa Fosc, Supernova, Ley del Deseo, Sleepy Hollow
