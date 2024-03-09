@@ -16,11 +16,10 @@ Si un cliente pide escalar en Sa Gubia, ya sabes qué guía vive en Bunyola 😉
 * * *
 
 ### Una actividad típica:<br>
-👥 Tamaño del grupo: 1 persona (ampliable a 2 personas)
-
-⏳ Duración aproximada: 5h, una mañana o una tarde
-
-💲 Desde ... € (sin IVA)
+*	🔝 Ejemplos: Quan es fa Fosc, Supernova, Ley del Deseo, Sleepy Hollow
+*	👥 Nº de clientes: 1 (ampliable a 2)
+*	⏳ Duración aproximada: 5h
+*	💲 Desde ... € (sin IVA)
 
 ### Ejemplos:<br>
-Quan es fa Fosc, Supernova, Ley del Deseo, Sleepy Hollow
+
