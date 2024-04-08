@@ -31,7 +31,7 @@ Más de 20 años de experiencia en montaña y 15 en escalada, me han llevado a s
 
 Sean clientes locales o turistas, deportistas de élite o paseantes ocasionales, incluso ¡personas con discapacidad!, yo me encargo de la seguridad para que ell@s se centren en vivir la experiencia. Además, mi experiencia como intérprete de naturaleza me permite satisfacer la infinita curiosidad de personas con interés por el entorno natural.
 
-Por otra parte, disfruto formando en todas las disciplinas de montaña: desde pedagógicas explicaciones durante un guiaje hasta una formación bien estructurada de varios días.
+Por otra parte, disfruto formando en todas las disciplinas de montaña: desde breves explicaciones durante un guiaje hasta una formación bien estructurada de varios días.
 
 Para más detalle de mi experiencia, pincha en [mi CV](./20230911.guia.pdf) o en cada una de las actividades 👀⬇️
 
