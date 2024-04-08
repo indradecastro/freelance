@@ -10,11 +10,12 @@ layout: default
 <img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/brands/instagram.svg" width="20" height="20"> [@indradecastroarrazola](https://www.instagram.com/indradecastroarrazola/)<br>
 
 ## Breve CV
-📜 TD2 de Escalada (Escuela de Benasque)<br>
-🪪 Guía Asoc. Esp. Guías Montaña (Nº 2041)<br>
-🏥 Seguro Accidentes: OM-MIC (Nº ESDV2100035)<br>
-⚖️ Seguro Resp. Civil: Berkley (Nº PIJ150CKI534)<br>
-🦋 Biólogo apasionado (10 años en investigación)<br>
+🦋 Biólogo apasionado<br>
+📜 TD2 de Escalada (Benasque)<br>
+🪪 Guía AEGM (Nº 2041)<br>
+🏥 Seg. Acc: OM-MIC (ESDV2100035)<br>
+⚖️ Seg. RC: Berkley (PIJ150CKI534)<br>
+🏷 Turismo Activo (Nº )<br>
 <br>
 💬 Guío actividades en <br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;🇪🇸 castellano, 🇬🇧 inglés, mallorquí<br>
