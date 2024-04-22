@@ -15,7 +15,7 @@ No todas las vías de Mallorca son aptas para llevar clientes, pero estaré enca
 * * *
 
 ### Una actividad típica:<br>
-📍 Ejemplos: Albahida, Esperó des Plà, Agulla des Frare, Pepe Ramón, Rectal
+📍 Ejemplos: Albahida, Esperó des Plà, Agulla des Frare, Pepe Ramón
 
 👥 Nº de clientes: 1 (ampliable a 2)
 
