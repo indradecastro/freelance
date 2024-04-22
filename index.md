@@ -23,10 +23,8 @@ layout: default
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;🇫🇷 francés, 🇬🇷 griego, euskera<br>
 <br>
 🏡 Base de operaciones: Bunyola!<br>
-🚗 Sí dispongo de vehículo propio,<br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;pero para llevar clientes prefiero vehículo de la empresa<br>
-⚠️ No dispongo material para clientes,<br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;pero puedo recoger el de la empresa
+🚗 Sí dispongo de vehículo propio, pero para llevar clientes prefiero vehículo de la empresa<br>
+⚠️ No dispongo material para clientes, pero puedo recoger el de la empresa en su almacén
 
 ## Presentación
 Más de 20 años de experiencia en montaña y 15 en escalada, me han llevado a ser muy meticuloso en la planificación de horarios, material, seguridad y asumir el compromiso con la actividad y los compañeros.
