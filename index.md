@@ -23,7 +23,8 @@ layout: default
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;🇫🇷 francés, 🇬🇷 griego, euskera<br>
 <br>
 🏡 Base de operaciones: Bunyola!<br>
-🚗 Sí dispongo de vehículo propio<br>
+🚗 Sí dispongo de vehículo propio,<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;pero para llevar clientes prefiero vehículo de la empresa<br>
 ⚠️ No dispongo de material para clientes
 
 ## Presentación
