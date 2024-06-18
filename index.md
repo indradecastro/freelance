@@ -15,7 +15,7 @@ layout: default
 🪪 Guía AEGM (Nº 2041)<br>
 🏥 Seg. Acc: OM-MIC (ESDV2100035)<br>
 ⚖️ Seg. RC: Berkley (PIJ150CKI534)<br>
-🏷 Turismo Activo (en proceso)<br>
+🏷 Turismo Activo (TA/122)<br>
 <br>
 💬 Guío actividades en <br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;🇪🇸 castellano, 🇬🇧 inglés, mallorquí<br>
